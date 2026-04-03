@@ -1,5 +1,12 @@
 # protobuf-specs
 
+[![Check Java build](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/java-build.yml/badge.svg)](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/java-build.yml)
+[![Check Python build](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/python-build.yml/badge.svg)](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/python-build.yml)
+[![Check Typescript build](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/typescript-build.yml/badge.svg)](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/typescript-build.yml)
+[![Check Rust build](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/rust-build.yml/badge.svg)](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/rust-build.yml)
+[![Check Ruby build](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/ruby-build.yml/badge.svg)](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/ruby-build.yml)
+[![Check generated code for changes](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/generate.yml/badge.svg)](https://github.com/Kushmanmb/protobuf-specs/actions/workflows/generate.yml)
+
 This repository holds protobuf specifications for Sigstore messages.
 
 ## Protobuf
